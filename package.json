@@ -6,6 +6,7 @@
   "license": "MIT",
   "scripts": {
     "test": "jest",
+    "jest:watch": "jest --watchAll",
     "start": "ts-node fizzbuzz.ts"
   },
   "devDependencies": {
