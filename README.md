@@ -1,5 +1,4 @@
 # Fizzbuzzz in Typescript
-
 ## What is Fizz Buzz ?
 FizzBuzz is a very simple programming task, used in software developer job interviews, to determine whether the job candidate can actually write code.
 
@@ -20,3 +19,9 @@ To run fizzbuzz function:
 ```
 $ yarn start
 ```
+
+## Tech i used:
+- jest
+- ts-jest"
+- ts-node
+- typescript
